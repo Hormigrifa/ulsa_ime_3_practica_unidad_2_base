@@ -1,8 +1,6 @@
 # Práctica guiada: Simulador de Semáforo y Conductores
-## Programación Orientada a Objetos — Mecatrónica 3er semestre
-### La Salle Saltillo — Unidad II, sesión práctica (2 horas)
+## Programación Orientada a Objetos — IME III
 
----
 
 ## Antes de empezar
 
